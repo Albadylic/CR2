@@ -4,7 +4,7 @@ This repo is a code read as part of Founders and Coders interviews for applicant
 
 ## On the page
 
-- An input, which accepts text
+- An input, which accepts a number
 - A submit button
 - An output
 

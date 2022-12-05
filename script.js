@@ -20,5 +20,5 @@ function calculateResult(number) {
       result.push(i);
     }
   }
-  return result.join(", ");
+  return result.reduce((accumulator, current) => (accumulator += current));
 }
